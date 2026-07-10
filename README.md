@@ -1,6 +1,7 @@
 TABLEAU PUBLIC LINKS:
+Dashboard:
 https://public.tableau.com/views/FoodorderingDashboard_17831614663950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+Story:
 https://public.tableau.com/views/FoodorderingDashboard_17831614663950/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 GITHUB LINK:
